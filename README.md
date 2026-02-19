@@ -21,7 +21,8 @@ Projects I have completed:
 - Mdk4 --> deauthentication using AWUS1900
 - Nmap --> Network Mapping
 - Flipper Zero --> Countless projects including SubGhz, Evil Portal, Deauthentication, BLE etc
-- Setting up my own router for simulated attacks -- Linksys wrt1900acs 
+- Setting up my own router for simulated attacks -- Linksys wrt1900acs
+- HashCat --> Password Cracking
 
 Projects I would like to compelte in the future:
 - Zero Wave -- Emensta
