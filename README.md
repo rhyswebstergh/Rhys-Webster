@@ -1,12 +1,15 @@
 # Rhys-Webster
 
-About me:\n
+About me:
+
 I am Rhys Webster, a University Student currently studying Bsc Hons Cyber Secruity. I am very intersted in how a variety of systems are made and how they can be broken in order to make them stronger, as well as the threats to my data and other peoples data through meaning of hardware hacking, social engineering or other means. I am also interested in programming using languages such as C, C++, Java, Rubber Ducky script, html and many more. Most of these I have very limited expereince with and am working to improve these over the next comping months and years.
 
-People that Insipre me:\n
+People that Insipre me:
+
 I am insipred by various people and organisations such as Emensta, Don Anon, JustCallMeKoKo, Joe Finney, Adrian Friday, Ryan Montgomery, Bruce Firmware, JayoFelony, Awok Dynamics, Flipper Zero, M5StickC and many more. I follow projects that these people create, own, suggest ... and attempt them my self to help learn how the project works from the basics to the more complicated parts.
 
-Projects I have completed:\n
+Projects I have completed:
+
 - Wifi-X Dual Band Deauther -- Emensta
 - Esp32 Marauder -- JustCallMeKoko
 - Esp32 v5 (Flipper Zero) -- Awok Dynamics/JustCallMeKoko
